@@ -1,4 +1,4 @@
-# Tutorial on Python basics for MICA
+# Tutorial on Python basics
 
 This tutorial was presented to the [MICA lab](https://mica-mni.github.io/) to familiarize everyone with Python basics.
 
